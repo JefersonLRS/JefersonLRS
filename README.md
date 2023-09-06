@@ -23,8 +23,8 @@ Olá, sou o Jeferson, um entusiasta de tecnologia! Desde criança sempre soube q
 
 ## Projetos
 
+### [PokeDev](https://poke-dev-snowy.vercel.app) - Acesse o  [Repositório](https://github.com/JefersonLRS/PokeDev)
 ### [Quiz de Vôlei](https://quiz-volei.vercel.app) - Acesse o  [Repositório](https://github.com/JefersonLRS/quiz-volei)
-### [CRUD Lista de tarefas](https://lista-de-tarefas-httpjef.vercel.app) - Acesse o  [Repositório](https://github.com/JefersonLRS/quiz-volei)
 ### [Buscador de CEP](https://buscador-cep-httpjef.vercel.app) - Acesse o  [Repositório](https://github.com/JefersonLRS/buscador-cep)
 
 
