@@ -17,6 +17,8 @@ Olá, sou o Jeferson, um entusiasta de tecnologia! Desde criança sempre soube q
 ### 📚 Bibliotecas & Frameworks:
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F) ![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux) ![NextJS](https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=nextdotjs) ![TailWind](https://img.shields.io/badge/TailWind-000?style=for-the-badge&logo=tailwindcss)
 
+[teste instagram](https://www.linkedin.com/in/eduarda-hidalgo-4a2b99181/){:target="_blank" rel="noopener"}
+
 ## GitHub Stats
 
 ![JefersonLRS's GitHub stats](https://github-readme-stats.vercel.app/api?username=JefersonLRS&theme=dark&bg_color=000&show_icons=true&hide_title=true&hide=stars)
